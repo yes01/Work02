@@ -25,4 +25,4 @@ class websitUser(HttpLocust):
 
 if __name__ == "__main__":
     import os
-    os.system("locust -f locusttest.py --host=https://www.cnblogs.com")
+    # os.system("locust -f locusttest.py --host=https://www.cnblogs.com")
